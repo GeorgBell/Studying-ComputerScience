@@ -7,3 +7,7 @@ ___
 ___
 ## Chapter 2. Search problems
 ![alt text](https://github.com/GeorgBell/Studying-ComputerScience/blob/main/Book_Classical_CS_problems_in_Python/Illustrations/Chapter_2.jpg)
+
+___
+## Chapter 3. Constraint-satisfied problems
+![alt text](https://github.com/GeorgBell/Studying-ComputerScience/blob/main/Book_Classical_CS_problems_in_Python/Illustrations/Chapter_3.jpg)
