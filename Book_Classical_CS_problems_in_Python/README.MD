@@ -11,3 +11,7 @@ ___
 ___
 ## Chapter 3. Constraint-satisfied problems
 ![alt text](https://github.com/GeorgBell/Studying-ComputerScience/blob/main/Book_Classical_CS_problems_in_Python/Illustrations/Chapter_3.jpg)
+
+___
+## Chapter 4. Graph problems
+![alt text](https://github.com/GeorgBell/Studying-ComputerScience/blob/main/Book_Classical_CS_problems_in_Python/Illustrations/Chapter_4.jpg)
