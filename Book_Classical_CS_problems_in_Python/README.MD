@@ -19,3 +19,7 @@ ___
 ___
 ## Chapter 5. Genetic algorithms
 ![alt text](https://github.com/GeorgBell/Studying-ComputerScience/blob/main/Book_Classical_CS_problems_in_Python/Illustrations/Chapter_5.jpg)
+
+___
+## Chapter 6. K-means clustering
+![alt text](https://github.com/GeorgBell/Studying-ComputerScience/blob/main/Book_Classical_CS_problems_in_Python/Illustrations/Chapter_6.jpg)
