@@ -23,3 +23,7 @@ ___
 ___
 ## Chapter 6. K-means clustering
 ![alt text](https://github.com/GeorgBell/Studying-ComputerScience/blob/main/Book_Classical_CS_problems_in_Python/Illustrations/Chapter_6.jpg)
+
+___
+## Chapter 7. Simple neural network
+![alt text](https://github.com/GeorgBell/Studying-ComputerScience/blob/main/Book_Classical_CS_problems_in_Python/Illustrations/Chapter_7.jpg)
