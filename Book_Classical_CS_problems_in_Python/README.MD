@@ -27,3 +27,7 @@ ___
 ___
 ## Chapter 7. Simple neural network
 ![alt text](https://github.com/GeorgBell/Studying-ComputerScience/blob/main/Book_Classical_CS_problems_in_Python/Illustrations/Chapter_7.jpg)
+
+___
+## Chapter 8. Adversarial search
+![alt text](https://github.com/GeorgBell/Studying-ComputerScience/blob/main/Book_Classical_CS_problems_in_Python/Illustrations/Chapter_8.jpg)
