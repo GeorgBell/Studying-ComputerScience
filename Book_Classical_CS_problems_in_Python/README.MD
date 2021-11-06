@@ -31,3 +31,7 @@ ___
 ___
 ## Chapter 8. Adversarial search
 ![alt text](https://github.com/GeorgBell/Studying-ComputerScience/blob/main/Book_Classical_CS_problems_in_Python/Illustrations/Chapter_8.jpg)
+
+___
+## Chapter 9. Miscellaneous problems
+![alt text](https://github.com/GeorgBell/Studying-ComputerScience/blob/main/Book_Classical_CS_problems_in_Python/Illustrations/Chapter_9.jpg)
